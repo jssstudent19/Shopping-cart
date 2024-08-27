@@ -1,7 +1,5 @@
 # Online Shopping Cart (E-Commerce Website)
-- Youtube Video for introduction, demo and setup for this Project: https://www.youtube.com/watch?v=RgQG0_orFpM
-<!-- - YouTube video for step by step local setup of similar project: https://www.youtube.com/watch?v=mLFPodZO8Iw&t=8s -->
-<!-- Live site url: https://ellisonelectronics.herokuapp.com -->
+
 This is an E-Commerce Website build for selling of any electronics products online.
 
 ### About
@@ -150,9 +148,5 @@ Note:- This is a Sample Project for learning purpose, we have not much considere
 <img width="589" alt="image" src="https://github.com/shashirajraja/shopping-cart/assets/34605595/d6dbfdb9-5108-4071-b4b6-d055f0370acd">
 
 #### "Suggestions and project improvement ideas are welcomed!"
-
-<bold>Thanks a lot,</bold><br/>
-                                                                                                        Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
 
 
